@@ -1,0 +1,27 @@
+## Paso 1: Preparación del Entorno
+
+### Instalación de VirtualBox
+
+1. **Descarga VirtualBox** desde el siguiente enlace: [Oracle VirtualBox Downloads](https://www.oracle.com/ar/virtualization/technologies/vm/downloads/virtualbox-downloads.html). Alternativamente, puedes visitar la página de Oracle (oracle.com) y buscar "VirtualBox".
+
+2. Selecciona el instalador adecuado para tu plataforma (Windows, Mac o Linux). La última versión disponible es la 7.1.4.
+
+3. Sigue el proceso de instalación leyendo cuidadosamente las indicaciones y continúa hasta que la aplicación esté completamente instalada en tu sistema.
+
+### Descargar ISO de Ubuntu Server
+
+1. **Descarga la ISO de Ubuntu Server** desde el siguiente enlace: [Ubuntu Server Download](https://ubuntu.com/download/server). También puedes buscar en Google "get ubuntu server".
+
+2. Asegúrate de descargar la versión LTS; actualmente, la última versión es la 24.04.1.
+
+### Descargar ISO de Red Hat Server
+
+1. Para **descargar la ISO de Red Hat Server**, necesitarás crear una cuenta. Busca "redhat rhel download" en Google para encontrar la página de descarga.
+
+2. La última versión es la 9.5. Asegúrate de seleccionar la arquitectura x86_64.
+
+3. Regístrate para crear una cuenta y sigue el proceso hasta que hayas descargado la ISO.
+
+### Verificación
+
+- Verifica que tengas descargados e instalados VirtualBox, y las ISOs de Ubuntu y Red Hat Server antes de proceder al siguiente paso.
